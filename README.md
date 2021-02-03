@@ -3,6 +3,22 @@
 
 Ecoleta é uma aplicação que têm como objetivo ajudar no descarte correto de lixo, pilhas, baterias, etc.
 
+<h2>📷 Imagens<h2>
+
+<details>
+    <summary>Clique para ver as imagens</summary>
+    <img src="https://i.imgur.com/OCJ9g5b.jpg">
+    <img src="https://i.imgur.com/OCJ9g5b.jpg">
+    <img src="https://i.imgur.com/MkFh1S4.jpg">
+    <img src="https://i.imgur.com/D5NsgRE.jpg">
+    <img src="https://i.imgur.com/yeJMgdF.jpg">
+    <img src="https://i.imgur.com/ycXu5Tw.jpg">
+    <img src="https://i.imgur.com/DmjYZ0b.jpg">
+    <img src="https://i.imgur.com/Ob01qmw.jpg">
+    <img src="https://i.imgur.com/dW6Io0N.jpg">
+    <img src="https://i.imgur.com/uTPiHut.jpg">
+</details>
+
 <h2>🌎 Tecnologias utilizadas</h2>
 
 <li>Javascript</li>
@@ -22,22 +38,6 @@ Ecoleta é uma aplicação que têm como objetivo ajudar no descarte correto de 
 <h2>🌳 Organização em árvore do projeto</h2>
 
 ![Árvore do projeto](https://i.imgur.com/Q2czVYd.jpg)
-
-<h2>📷 Imagens<h2>
-
-<details>
-    <summary>Clique para ver as imagens</summary>
-    <img src="https://i.imgur.com/OCJ9g5b.jpg">
-    <img src="https://i.imgur.com/OCJ9g5b.jpg">
-    <img src="https://i.imgur.com/MkFh1S4.jpg">
-    <img src="https://i.imgur.com/D5NsgRE.jpg">
-    <img src="https://i.imgur.com/yeJMgdF.jpg">
-    <img src="https://i.imgur.com/ycXu5Tw.jpg">
-    <img src="https://i.imgur.com/DmjYZ0b.jpg">
-    <img src="https://i.imgur.com/Ob01qmw.jpg">
-    <img src="https://i.imgur.com/dW6Io0N.jpg">
-    <img src="https://i.imgur.com/uTPiHut.jpg">
-</details>
 
 <h2>🔎 Observações</h2>
 
