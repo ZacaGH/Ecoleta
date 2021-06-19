@@ -29,7 +29,7 @@ Ecoleta is an application that aims to help in the correct disposal of garbage, 
 
 <p>Ecoleta was my first contact with responsiveness and flexbox, the site is responsive and adapts to different screen sizes. Responsiveness was built with Media Queries without the use of external Frameworks</p>
 
-<h2>⚙️ Functionalities</h2>
+<h2>⚙️ Features </h2>
 
 <li>Collection point creation</li>
 <li>Collection point survey</li>
