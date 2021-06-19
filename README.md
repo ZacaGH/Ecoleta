@@ -2,7 +2,12 @@
 
 Ecoleta is an application that aims to help in the correct disposal of garbage, batteries, etc.
 
-<h2>📷 Images <h2>
+
+<h2>❔ Why?</h2>
+
+This was my first responsive project in practice, I built it during an intensive programming event.
+
+<h2>📷 Images </h2>
 
 <details>
     <summary>Click here to see the images</summary>
