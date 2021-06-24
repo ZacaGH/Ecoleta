@@ -39,10 +39,6 @@ This was my first responsive project in practice, I built it during an intensive
 <li>Collection point creation</li>
 <li>Collection point survey</li>
 
-<h2>🌳 Project tree organization</h2>
-
-![Project tree](https://i.imgur.com/Q2czVYd.jpg)
-
 <h2>🔎 Comments</h2>
 
 <p>Ecoleta is an experimental project, therefore, it does not have any user session validation system, anyone can create a collection point.</p>
